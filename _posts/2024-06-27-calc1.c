@@ -21,6 +21,9 @@ int main(void)
 }
 
 
+
+output:
+
 $ cd practice
 practice/ $ code calc1.c
 practice/ $ make calc1
