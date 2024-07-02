@@ -5,11 +5,14 @@ categories:
 ---
 
 
-printing odd or even number
+## printing odd or even number 
 
 
 
-```c
+### Code :
+
+```C
+
 #include <cs50.h>
 #include <stdio.h>
 
@@ -31,7 +34,7 @@ int main(void)
  
 ```
 
-
+### output :
 
 2024-07-01/ $ make evenorodd
 2024-07-01/ $ ./evenorodd
