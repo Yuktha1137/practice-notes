@@ -1,18 +1,15 @@
 ---
-title: "EvenorOdd"
-date: 2024-07-01
+title: "Even or Odd"
+date: 2024-07-02
 categories:
 ---
 
-
-## printing odd or even number 
-
+## To print odd or even numbers
 
 
 ### Code :
 
-```C
-
+```c
 #include <cs50.h>
 #include <stdio.h>
 
@@ -30,9 +27,9 @@ int main(void)
         printf("%d is an odd number.\n" , num);
     }
 }
-
- 
 ```
+ 
+
 
 ### output :
 
